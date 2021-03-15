@@ -1,0 +1,19 @@
+baseURL = "https://gesoc.org"
+languageCode = "en-us"
+title = "Gender Expansive Standards of Care"
+
+
+
+[module]
+
+[[module.imports]]
+path = "github.com/saderra/hugo-modules/uitheme"
+
+[[module.imports]]
+path = "github.com/saderra/hugo-modules/alpinejs"
+
+
+[build]
+writeStats = true
+
+

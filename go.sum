@@ -1,0 +1,6 @@
+github.com/alpinejs/alpine v2.6.0+incompatible/go.mod h1:BKI81egATMnaKqFeX5HEfYMnjZjcjcZmrYAu5Nck+EY=
+github.com/saderra/hugo-modules v0.0.0-20210117202337-0d57267da9de h1:jYGqSAVGhrtq2Ael9XYA+ud6yWIYewtWqs2YVGL4xm0=
+github.com/saderra/hugo-modules/alpinejs v0.0.0-20210117202337-0d57267da9de h1:N72UYckS+9j145pdxS6gH0dmWHVCAjK8FbQH1STbLx4=
+github.com/saderra/hugo-modules/alpinejs v0.0.0-20210117202337-0d57267da9de/go.mod h1:Wc1Gr/nmPvMu+K5oQHWwWZXyEBbI4jlgyrDEqaw3Ny8=
+github.com/saderra/hugo-modules/uitheme v0.0.0-20210117202337-0d57267da9de h1:KFKX/X+wTtBYoUDeLvMXKSvhSfZVO1Q226NnCFlTdTg=
+github.com/saderra/hugo-modules/uitheme v0.0.0-20210117202337-0d57267da9de/go.mod h1:zduP7HXqI222kJWua3wEpz/x0PaEms3YQ9u+2dnNsP0=

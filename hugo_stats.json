@@ -1,0 +1,22 @@
+{
+  "htmlElements": {
+    "tags": [
+      "!doctype",
+      "article",
+      "body",
+      "h1",
+      "head",
+      "html",
+      "link",
+      "meta",
+      "script",
+      "title"
+    ],
+    "classes": [
+      "lg:prose-xl",
+      "prose",
+      "text-4xl"
+    ],
+    "ids": null
+  }
+}
